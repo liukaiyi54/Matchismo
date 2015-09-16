@@ -15,6 +15,7 @@
 		4CA2DBFD1BA5D897008598E3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4CA2DBFB1BA5D897008598E3 /* LaunchScreen.xib */; };
 		4CA2DC091BA5D897008598E3 /* MatchismoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CA2DC081BA5D897008598E3 /* MatchismoTests.m */; };
 		4CFBF5CC1BA7098500FA7175 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CFBF5CB1BA7098500FA7175 /* Card.m */; };
+		4CFBF5D41BA855CB00FA7175 /* Deck.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CFBF5D31BA855CB00FA7175 /* Deck.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		4CA2DC081BA5D897008598E3 /* MatchismoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MatchismoTests.m; sourceTree = "<group>"; };
 		4CFBF5CA1BA7098500FA7175 /* Card.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Card.h; sourceTree = "<group>"; };
 		4CFBF5CB1BA7098500FA7175 /* Card.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Card.m; sourceTree = "<group>"; };
+		4CFBF5D21BA855CB00FA7175 /* Deck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Deck.h; sourceTree = "<group>"; };
+		4CFBF5D31BA855CB00FA7175 /* Deck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Deck.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +131,8 @@
 			children = (
 				4CFBF5CA1BA7098500FA7175 /* Card.h */,
 				4CFBF5CB1BA7098500FA7175 /* Card.m */,
+				4CFBF5D21BA855CB00FA7175 /* Deck.h */,
+				4CFBF5D31BA855CB00FA7175 /* Deck.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -232,6 +237,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CFBF5D41BA855CB00FA7175 /* Deck.m in Sources */,
 				4CFBF5CC1BA7098500FA7175 /* Card.m in Sources */,
 				4CA2DBF51BA5D897008598E3 /* ViewController.m in Sources */,
 				4CA2DBF21BA5D897008598E3 /* AppDelegate.m in Sources */,
