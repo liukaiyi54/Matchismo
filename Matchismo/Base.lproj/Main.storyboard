@@ -26,7 +26,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="11Q-9C-zUF"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="olf-TD-Gyp"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="abn-OQ-rXv">
@@ -37,7 +37,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="U45-oH-zPo"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="hE4-wn-9Rr"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Fx-HU-D3S">
@@ -48,7 +48,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="xuN-ra-JQN"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="qz5-XW-tYH"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iLf-pc-wJf">
@@ -59,7 +59,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="pSV-Ok-sbd"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="e20-fh-TiD"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d1x-oi-JiB">
@@ -70,7 +70,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="D7X-I5-mrr"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="qoi-bN-HFN"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="F9P-us-2Ot">
@@ -81,7 +81,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="jpe-vr-uwL"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="l3O-WQ-JEt"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VrZ-NP-zzq">
@@ -92,7 +92,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="rnu-pI-ccF"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="fuS-lZ-8mO"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z4b-i1-b3e">
@@ -103,7 +103,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="xFz-01-ckk"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="ZvN-CA-5Zn"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FF8-Gi-eTe">
@@ -114,7 +114,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="B7h-as-fQK"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="tKX-e9-M5V"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6Cj-bs-x3C">
@@ -125,7 +125,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="QQG-qf-zZy"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="WaH-4a-MmA"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cLa-SK-Yoe">
@@ -136,7 +136,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Def-BN-7JJ"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="mv5-HI-EuQ"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UVr-bI-E4s">
@@ -147,12 +147,15 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Zwl-9T-RqK"/>
+                                    <action selector="touchCardButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="CuT-uu-UkH"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NH2-xf-q4I">
-                                <rect key="frame" x="20" y="626" width="42" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Score: 0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NH2-xf-q4I">
+                                <rect key="frame" x="20" y="626" width="335" height="21"/>
                                 <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="ue7-2L-7sj"/>
+                                </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
@@ -161,46 +164,50 @@
                         <animations/>
                         <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
-                            <constraint firstItem="abn-OQ-rXv" firstAttribute="top" secondItem="cLa-SK-Yoe" secondAttribute="top" id="30Q-D1-yJS"/>
-                            <constraint firstItem="iLf-pc-wJf" firstAttribute="leading" secondItem="gNb-qg-Ms8" secondAttribute="leading" id="7rs-4F-TBd"/>
-                            <constraint firstItem="UVr-bI-E4s" firstAttribute="top" secondItem="gNb-qg-Ms8" secondAttribute="top" id="Ejb-FI-cqi"/>
-                            <constraint firstItem="cLa-SK-Yoe" firstAttribute="leading" secondItem="abn-OQ-rXv" secondAttribute="trailing" priority="750" constant="16" id="GHI-sM-VXR"/>
-                            <constraint firstItem="FF8-Gi-eTe" firstAttribute="top" secondItem="6Cj-bs-x3C" secondAttribute="top" id="HiS-1F-6Tp"/>
-                            <constraint firstItem="FF8-Gi-eTe" firstAttribute="top" secondItem="Z4b-i1-b3e" secondAttribute="top" id="Pgx-Ew-C79"/>
-                            <constraint firstItem="6Cj-bs-x3C" firstAttribute="leading" secondItem="F9P-us-2Ot" secondAttribute="leading" id="Tgn-Ct-kKH"/>
-                            <constraint firstItem="F9P-us-2Ot" firstAttribute="top" secondItem="d1x-oi-JiB" secondAttribute="top" id="UJL-zE-maf"/>
-                            <constraint firstItem="9Fx-HU-D3S" firstAttribute="top" secondItem="UVr-bI-E4s" secondAttribute="bottom" constant="8" symbolic="YES" id="V6v-Jt-BlU"/>
-                            <constraint firstItem="cLa-SK-Yoe" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" id="WOL-HB-5tu"/>
-                            <constraint firstItem="abn-OQ-rXv" firstAttribute="leading" secondItem="d1x-oi-JiB" secondAttribute="leading" id="ZmD-Qm-VSZ"/>
-                            <constraint firstItem="UVr-bI-E4s" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="4" id="cD6-jD-Pax"/>
-                            <constraint firstItem="gNb-qg-Ms8" firstAttribute="leading" secondItem="UVr-bI-E4s" secondAttribute="trailing" priority="750" constant="16" id="ckS-8l-fm2"/>
-                            <constraint firstItem="F9P-us-2Ot" firstAttribute="leading" secondItem="cLa-SK-Yoe" secondAttribute="leading" id="e6C-TY-zu0"/>
-                            <constraint firstItem="VrZ-NP-zzq" firstAttribute="top" secondItem="9Fx-HU-D3S" secondAttribute="bottom" constant="8" symbolic="YES" id="hWh-3f-wyg"/>
-                            <constraint firstItem="UVr-bI-E4s" firstAttribute="leading" secondItem="9Fx-HU-D3S" secondAttribute="leading" id="kY6-tp-B4H"/>
-                            <constraint firstItem="abn-OQ-rXv" firstAttribute="leading" secondItem="gNb-qg-Ms8" secondAttribute="trailing" priority="750" constant="16" id="ksy-pp-BHx"/>
-                            <constraint firstItem="d1x-oi-JiB" firstAttribute="leading" secondItem="FF8-Gi-eTe" secondAttribute="leading" id="pAr-sj-4yE"/>
-                            <constraint firstItem="iLf-pc-wJf" firstAttribute="top" secondItem="d1x-oi-JiB" secondAttribute="top" id="svQ-YT-fqd"/>
-                            <constraint firstItem="9Fx-HU-D3S" firstAttribute="leading" secondItem="VrZ-NP-zzq" secondAttribute="leading" id="uiA-k1-ifY"/>
-                            <constraint firstItem="9Fx-HU-D3S" firstAttribute="top" secondItem="iLf-pc-wJf" secondAttribute="top" id="wih-DO-StI"/>
-                            <constraint firstItem="iLf-pc-wJf" firstAttribute="leading" secondItem="Z4b-i1-b3e" secondAttribute="leading" id="woJ-4e-pVl"/>
-                            <constraint firstItem="Z4b-i1-b3e" firstAttribute="top" secondItem="VrZ-NP-zzq" secondAttribute="top" id="xPX-pt-2mL"/>
-                            <constraint firstItem="gNb-qg-Ms8" firstAttribute="top" secondItem="abn-OQ-rXv" secondAttribute="top" id="zMp-Me-Pve"/>
+                            <constraint firstItem="gNb-qg-Ms8" firstAttribute="leading" secondItem="UVr-bI-E4s" secondAttribute="trailing" constant="16" id="0Ek-w1-VGU"/>
+                            <constraint firstItem="Z4b-i1-b3e" firstAttribute="leading" secondItem="iLf-pc-wJf" secondAttribute="leading" id="4Nx-Ga-xkW"/>
+                            <constraint firstItem="abn-OQ-rXv" firstAttribute="leading" secondItem="gNb-qg-Ms8" secondAttribute="trailing" constant="16" id="6LU-si-xRj"/>
+                            <constraint firstItem="cLa-SK-Yoe" firstAttribute="leading" secondItem="F9P-us-2Ot" secondAttribute="leading" id="6TZ-Bn-UG8"/>
+                            <constraint firstItem="UVr-bI-E4s" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="4" id="7Pu-6A-N2C"/>
+                            <constraint firstItem="NH2-xf-q4I" firstAttribute="leading" secondItem="VrZ-NP-zzq" secondAttribute="leading" id="BMb-ix-I1M"/>
+                            <constraint firstItem="d1x-oi-JiB" firstAttribute="top" secondItem="F9P-us-2Ot" secondAttribute="top" id="E0u-xm-3JD"/>
+                            <constraint firstItem="d1x-oi-JiB" firstAttribute="leading" secondItem="abn-OQ-rXv" secondAttribute="leading" id="P9E-r5-2hS"/>
+                            <constraint firstItem="9Fx-HU-D3S" firstAttribute="leading" secondItem="UVr-bI-E4s" secondAttribute="leading" id="Plx-TT-XBN"/>
+                            <constraint firstItem="NH2-xf-q4I" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="Qrj-qo-exA"/>
+                            <constraint firstItem="FF8-Gi-eTe" firstAttribute="leading" secondItem="d1x-oi-JiB" secondAttribute="leading" id="TFW-Jx-wCm"/>
+                            <constraint firstItem="9Fx-HU-D3S" firstAttribute="leading" secondItem="VrZ-NP-zzq" secondAttribute="leading" id="Uyz-j3-gjb"/>
+                            <constraint firstItem="Z4b-i1-b3e" firstAttribute="top" secondItem="FF8-Gi-eTe" secondAttribute="top" id="bgq-vi-orp"/>
+                            <constraint firstAttribute="bottom" secondItem="NH2-xf-q4I" secondAttribute="bottom" constant="20" symbolic="YES" id="caE-Xg-1Hd"/>
+                            <constraint firstItem="Z4b-i1-b3e" firstAttribute="top" secondItem="VrZ-NP-zzq" secondAttribute="top" id="d2O-nK-HcP"/>
+                            <constraint firstItem="gNb-qg-Ms8" firstAttribute="top" secondItem="UVr-bI-E4s" secondAttribute="top" id="eZs-aT-kfE"/>
+                            <constraint firstItem="iLf-pc-wJf" firstAttribute="top" secondItem="d1x-oi-JiB" secondAttribute="top" id="hHu-qF-I5s"/>
+                            <constraint firstItem="9Fx-HU-D3S" firstAttribute="top" secondItem="iLf-pc-wJf" secondAttribute="top" id="mgM-yI-yzC"/>
+                            <constraint firstItem="9Fx-HU-D3S" firstAttribute="top" secondItem="UVr-bI-E4s" secondAttribute="bottom" constant="8" symbolic="YES" id="nmw-he-oVa"/>
+                            <constraint firstItem="gNb-qg-Ms8" firstAttribute="leading" secondItem="iLf-pc-wJf" secondAttribute="leading" id="oca-lF-rTa"/>
+                            <constraint firstItem="FF8-Gi-eTe" firstAttribute="top" secondItem="6Cj-bs-x3C" secondAttribute="top" id="qqn-A3-lUd"/>
+                            <constraint firstItem="gNb-qg-Ms8" firstAttribute="top" secondItem="abn-OQ-rXv" secondAttribute="top" id="v1K-UX-Lux"/>
+                            <constraint firstItem="cLa-SK-Yoe" firstAttribute="leading" secondItem="abn-OQ-rXv" secondAttribute="trailing" constant="16" id="z1e-yL-3YG"/>
+                            <constraint firstItem="VrZ-NP-zzq" firstAttribute="top" secondItem="9Fx-HU-D3S" secondAttribute="bottom" constant="8" symbolic="YES" id="zao-iG-zgF"/>
+                            <constraint firstItem="abn-OQ-rXv" firstAttribute="top" secondItem="cLa-SK-Yoe" secondAttribute="top" id="zcH-OV-gol"/>
+                            <constraint firstItem="cLa-SK-Yoe" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" id="zlZ-2f-3cS"/>
+                            <constraint firstItem="6Cj-bs-x3C" firstAttribute="leading" secondItem="F9P-us-2Ot" secondAttribute="leading" id="zmR-7M-giR"/>
                         </constraints>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
                     <connections>
-                        <outletCollection property="cardButtons" destination="UVr-bI-E4s" id="dKL-fl-bSd"/>
-                        <outletCollection property="cardButtons" destination="gNb-qg-Ms8" id="AzJ-nr-P0Q"/>
-                        <outletCollection property="cardButtons" destination="abn-OQ-rXv" id="c84-L5-fZS"/>
-                        <outletCollection property="cardButtons" destination="cLa-SK-Yoe" id="RPa-2N-NoQ"/>
-                        <outletCollection property="cardButtons" destination="9Fx-HU-D3S" id="8UW-Of-U09"/>
-                        <outletCollection property="cardButtons" destination="iLf-pc-wJf" id="xL7-xE-8UZ"/>
-                        <outletCollection property="cardButtons" destination="d1x-oi-JiB" id="DBP-bB-wZS"/>
-                        <outletCollection property="cardButtons" destination="F9P-us-2Ot" id="F06-pR-jN0"/>
-                        <outletCollection property="cardButtons" destination="VrZ-NP-zzq" id="M2w-gp-4wJ"/>
-                        <outletCollection property="cardButtons" destination="Z4b-i1-b3e" id="8v6-mW-Lhj"/>
-                        <outletCollection property="cardButtons" destination="FF8-Gi-eTe" id="Ucj-Uo-3tb"/>
-                        <outletCollection property="cardButtons" destination="6Cj-bs-x3C" id="Dq4-n7-T4G"/>
+                        <outlet property="scoreLabel" destination="NH2-xf-q4I" id="rOn-oX-14h"/>
+                        <outletCollection property="cardButtons" destination="UVr-bI-E4s" id="Rja-2b-bqP"/>
+                        <outletCollection property="cardButtons" destination="gNb-qg-Ms8" id="DPS-4J-kyb"/>
+                        <outletCollection property="cardButtons" destination="abn-OQ-rXv" id="M7b-q0-qdU"/>
+                        <outletCollection property="cardButtons" destination="cLa-SK-Yoe" id="emg-OC-tjy"/>
+                        <outletCollection property="cardButtons" destination="9Fx-HU-D3S" id="5zf-gv-Eew"/>
+                        <outletCollection property="cardButtons" destination="iLf-pc-wJf" id="JcZ-dw-ESm"/>
+                        <outletCollection property="cardButtons" destination="d1x-oi-JiB" id="rjO-Qf-aJH"/>
+                        <outletCollection property="cardButtons" destination="F9P-us-2Ot" id="94Z-tD-87Y"/>
+                        <outletCollection property="cardButtons" destination="VrZ-NP-zzq" id="MTP-Ms-eTC"/>
+                        <outletCollection property="cardButtons" destination="Z4b-i1-b3e" id="NYm-oW-0eV"/>
+                        <outletCollection property="cardButtons" destination="FF8-Gi-eTe" id="yX0-i1-f5W"/>
+                        <outletCollection property="cardButtons" destination="6Cj-bs-x3C" id="QxI-8v-8CW"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
