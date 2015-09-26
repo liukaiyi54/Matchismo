@@ -17,7 +17,7 @@
 }
 
 + (NSArray *)validSuits {
-    return @[@"♥",@"♦",@"♠",@"♣"];
+    return @[@"♥️",@"♦️",@"♠️",@"♣️"];
 }
 
 + (NSArray *)rankString {

@@ -79,15 +79,4 @@ static const NSInteger COST_TO_CHOOSE = 1;
     
 }
 
-
-
-
-
-
-
-
-
-
-
-
 @end
